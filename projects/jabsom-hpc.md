@@ -16,4 +16,4 @@ I also upgraded all the hard drives as well as the ram. We had sixteen servers a
 
 >After it was all said and done, I named the HPC "**Bubbles**"!
 
-If you'd like more information about the Expmed lab: *http://www.expmed.org*
+If you'd like more information about the Expmed lab, check it out [here!] (http://www.expmed.org)
