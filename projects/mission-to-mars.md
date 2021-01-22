@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: mission to mars 
-image: images/gtdd.jpg
+image: images/nasa.jpg
 permalink: projects/mission-to-mars
 date: 2018-12-16
 labels:
