@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: jabsom hpc
-image: images/nasa.jpg
+image: images/cropped-jabsom-favicon-01.png
 permalink: projects/jabsom-hpc
 date: 2020-06-21
 labels:
