@@ -21,5 +21,5 @@ Suddenly, I can't remeber anything from the modules or how to even print a line 
  
 Java is a very frustrating programming language. It's much more diffult to use and understand than python or JavaScript. Although I disliked every second of it, I'm glad my first learned programming language was Java. Learning programming simply gets easier after that. 
 
-Overall, I can't wait to do projects with JavaScript and apply more of my freshly learned skills. As they say, crawling is still progression. 
+Overall, I can't wait to do projects with JavaScript and apply more of my freshly learned skills. As they say, *crawling is still progression.* 
 
