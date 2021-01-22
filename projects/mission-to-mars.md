@@ -16,4 +16,4 @@ consisted of students from Hawaii and one student from Alaska. We had computer s
 and chemistry. It was a really great team of diverse study areas. At the end of the project we wrote a 70-page project thesis on everything. 
 My job was to plan out the robotics and simple algorithms that would be used in order to retrieve data from Mars' top soil. 
 
->If you're interested in more informaiton about the NASA L'SPACE program: *https://www.lspace.asu.edu*
+>If you're interested in more informaiton about the NASA L'SPACE program, check it out [here!]: (https://www.lspace.asu.edu)
