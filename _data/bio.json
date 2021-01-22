@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "nnmkmt",
-        "url": "linkedin.com/in/nnmkmt"
+        "url": "https://www.linkedin.com/in/nnmkmt/"
       },
  
      
@@ -91,7 +91,7 @@
     {
       "company": "Hawaii Data Science Institute",
       "position": "Undergraduate Research Fellow",
-      "website": "datascience.hawaii.edu/",
+      "website": "https://datascience.hawaii.edu",
       "startDate": "2020-08-27",
       "endDate": "Present",
       "summary": "Semester long Data Science research projects",
@@ -104,7 +104,7 @@
   "volunteer": [
     {
       "organization": "Doctors Without Borders",
-      "website": "doctorswithoutborders.org",
+      "website": "https://www.doctorswithoutborders.org",
       "position": "Mapathon volunteer",
       "highlights": [
         "Use mapping software to help determine areas or the world that need humanitarian aid",
