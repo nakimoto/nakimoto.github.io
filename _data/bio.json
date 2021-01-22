@@ -5,7 +5,7 @@
     "picture": "2D57D800-9115-4F15-9718-7D7BB351C347_1_201_a.jpeg",
     "email": "nkimoto@hawaii.edu",
     "phone": "",
-    "website": "https://nakimoto.github.io",
+    "website": "nakimoto.github.io",
     "summary": "I am an undergraduate student studying Computer Science for my B.S. I currently work at JABSOM as a computer science student researcher and I am an undergraduate fellow at the Hawaii Data Science Institute.",
     "location": {
       "address": "",
@@ -18,11 +18,11 @@
       {
         "network": "github",
         "username": "nakimoto",
-        "url": "http://github.com/nakimoto"
+        "url": "github.com/nakimoto"
       },
       {
         "network": "linkedin",
-        "url": "http://linkedin.com/in/nnmkmt"
+        "url": "linkedin.com/in/nnmkmt"
       },
  
      
@@ -90,7 +90,7 @@
     {
       "company": "Hawaii Data Science Institute",
       "position": "Undergraduate Research Fellow",
-      "website": "https://datascience.hawaii.edu/",
+      "website": "datascience.hawaii.edu/",
       "startDate": "2020-08-27",
       "endDate": "Present",
       "summary": "Semester long Data Science research projects",
@@ -103,7 +103,7 @@
   "volunteer": [
     {
       "organization": "Doctors Without Borders",
-      "website": "https://www.doctorswithoutborders.org",
+      "website": "doctorswithoutborders.org",
       "position": "Mapathon volunteer",
       "highlights": [
         "Use mapping software to help determine areas or the world that need humanitarian aid",
