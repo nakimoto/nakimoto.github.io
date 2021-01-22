@@ -22,7 +22,6 @@
       },
       {
         "network": "linkedin",
-       
         "url": "http://linkedin.com/in/nnmkmt"
       },
  
@@ -39,7 +38,7 @@
       
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       
     }
   ],
@@ -70,7 +69,7 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected fall, 2021)",
+      "area": "Computer Science (expected graduation fall, 2021)",
       "studyType": "B.S.",
     
     }
@@ -84,7 +83,7 @@
       "endDate": "Present",
       "summary": "Computer Science themes research projects",
       "highlights": [
-        "Built an HPC for the laboratory",
+        "Built an HPC for the laboratory"
         
       ]
     },
