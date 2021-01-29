@@ -7,7 +7,7 @@ labels:
   - Stack Overflow
 ---
 
-![Britannica](images/computer.jpg)
+![alt text](https://cdn.britannica.com/30/199930-131-B3D1D347/computer.jpg)
 *Image sourced from Britannica*
 
 As most early (and veteran!) software developers know, StackOverflow is the go-to for all software engineering related questions. It's a tried and true staple
