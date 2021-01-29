@@ -15,7 +15,7 @@ questions? As it turns out, there is!
 thought about the many times I may have asked a question in this same fashion. You never think about how you ask questions in a way that would get you a great response. 
 According to Eric's guidelines, some examples of not-so-smart questions include the following:
 
->1.Posting your question in the wrong area of a forum or website
+1.Posting your question in the wrong area of a forum or website
 2. Posting a simple question in an area designated for more advanced needs
 3. Cross-posting to various forums or websites
 4. Emailing someone whom you don't have a pre-existing relationship with 
