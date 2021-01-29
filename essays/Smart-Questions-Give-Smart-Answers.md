@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: smart questions give smart answers
+title: Smart Questions Give Smart Answers
 date: 2021-1-25
 labels:
   - Stack Overflow
