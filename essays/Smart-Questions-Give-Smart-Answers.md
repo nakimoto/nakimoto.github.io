@@ -41,11 +41,11 @@ The only details they give about it don't include the hardware details. The user
 When you don't include important details like that, it makes it more likely that someone will simply pass up your question or even ask for it to be removed. The post itself was also downvoted, which most users will do if they feel it is a poorly asked question.
 
 You may be thinking, "Well, show me a good example then!"
->**Ask and you shall recieve!**
+**Ask and you shall recieve!**
 
 In this [post](https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java/513839#513839), a user asks a simple question of "How to compare strings in Java". The user briefly mentions techniques they used, and asked about information on them. The user went straignt to the point, didn't waste time, and also made it clear that they tried their own solutions first. The tags of the post are all related to the question itself and won't overlap in other searches. Many users replied to this post with great answers! It even became a **community effort** post, meaning StackOverflow will use it to direct others to as an official answer. 
 
-#Can you spot the differences between this post and the previously mentioned?#
+Can you spot the differences between this post and the previously mentioned?
 
 Now that you've seen examples of both smart and not-so-smart questions, how will you ask for advice? 
 Asking smart questions to get smart answers is how you become a smart developer!
