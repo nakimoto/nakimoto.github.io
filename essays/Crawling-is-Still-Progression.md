@@ -3,12 +3,12 @@ layout: essay
 type: essay
 title: Crawling is Still Progression
 date: 2021-1-18
-image: images/FCC.png
 labels:
   - WODs
   - Learning
 ---
-
+![alt text](https://cdn-media-1.freecodecamp.org/images/0*ngXgBNNdx6iiWP8q.png)
+*Image sourced from FreeCodeCamp*
 >I previously had experience with Java, Python, and C++. So far, I have really enjoyed JavaScript. I much prefer it over Java, due to the easier parameter passing abilities. Java is much more "*hard coded*" and requires a lot more specifics in order to compile and run. I really enjoyed the JavaScript modules because it reminds me of the DataCamp and CodeAcademy modules.
 I've done quite a few those and had a lot of fun. They're much more interactive than simply sitting in a lecture and watching someone write a bit of code. 
 I also enjoyed the fact that the questions are relatively short. I felt like I was making a lot more progress than I really was, but it made me feel much more motivated.
