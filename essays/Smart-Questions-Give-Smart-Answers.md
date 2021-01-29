@@ -7,7 +7,10 @@ labels:
   - Stack Overflow
 ---
 
->As most early (and veteran!) software developers know, StackOverflow is the go-to for all software engineering related questions. It's a tried and true staple
+![SO TEAMS LOGO](/images/SO_TEAMS.png)
+*Image sourced from StackOverflowBlog*
+
+As most early (and veteran!) software developers know, StackOverflow is the go-to for all software engineering related questions. It's a tried and true staple
 in the community. StackOverflow is a forum-like website that allows users to ask specific questions and get advice from more veteran developers.
 Although many people argue that there are no stupid questions, there are certainly questions that could be *smarter*. Is there a specifc way we should all be
 questions? As it turns out, there is! 
