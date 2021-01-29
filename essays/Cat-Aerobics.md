@@ -7,6 +7,11 @@ labels:
   - Software Engineering
   - Programming
 ---
+
+![alt text](https://images-na.ssl-images-amazon.com/images/I/51Huv5HM8ML.jpg)
+
+*Image sourced from Amazon*
+
 >Software engineering has always been a neutral topic for me. I much prefer the mathematical side of computer science, rather than the *"designing webpages and applications"* side. My mind and heart definitely lie on **quantum computing, artificial intelligence,** and **robotics**. However, it's important to understand how central basic software engineering skills are to your career as a computer scientist. In the same way that discrete mathematics discribes the foundations of CS, software engineering shows you the why and the how.
 
 >I hope I continue developing a greater interest in software engineering, as well as shaping my skills in this particular subset. 
