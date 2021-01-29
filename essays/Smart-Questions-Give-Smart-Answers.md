@@ -24,12 +24,12 @@ thought about the many times I may have asked a question in this same fashion. Y
 Well, it's not about which questions you ask, but more about *how* you ask them. 
 Here are some tips, according to Eric, to help you ask your questions in the best way possible.
 
-1.Have an appropriate and detailed description of your question or problem
-2.Make it very easy for others to reply to you
-3.Make sure your text is grammatically correct and free of spelling errors
->(this ensures that no mix-ups due to spelling mishaps or language occur)
-4.Explain your goal with your program, don't list off steps
-5.List your hardware and software details
+>1.Have an appropriate and detailed description of your question or problem
+>2.Make it very easy for others to reply to you
+>3.Make sure your text is grammatically correct and free of spelling errors
+>>(this ensures that no mix-ups due to spelling mishaps or language occur)
+>4.Explain your goal with your program, don't list off steps
+>5.List your hardware and software details
 
 >You can access the entire set of guidelines [here](http://www.catb.org/esr/faqs/smart-questions.html)
 
