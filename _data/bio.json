@@ -5,7 +5,7 @@
     "picture": "nakimoto.github.io/images/2D57D800-9115-4F15-9718-7D7BB351C347_1_201_a.jpeg",
     "email": "nkimoto@hawaii.edu",
     "phone": "",
-    "website": "nakimoto.github.io",
+    "website": "https://www.nakimoto.github.io",
     "summary": "I am an undergraduate student studying Computer Science for my B.S. I currently work at JABSOM as a computer science student researcher and I am an undergraduate fellow at the Hawaii Data Science Institute.",
     "location": {
       "address": "",
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "nakimoto",
-        "url": "github.com/nakimoto"
+        "url": "https://www.github.com/nakimoto"
       },
       {
         "network": "linkedin",
