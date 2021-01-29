@@ -7,8 +7,8 @@ labels:
   - Stack Overflow
 ---
 
-![SO TEAMS LOGO](/images/FCC.png)
-*Image sourced from StackOverflowBlog*
+![SO TEAMS LOGO](/images/computer.jpg)
+*Image sourced from Britannica*
 
 As most early (and veteran!) software developers know, StackOverflow is the go-to for all software engineering related questions. It's a tried and true staple
 in the community. StackOverflow is a forum-like website that allows users to ask specific questions and get advice from more veteran developers.
