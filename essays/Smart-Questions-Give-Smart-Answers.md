@@ -2,12 +2,13 @@
 layout: essay
 type: essay
 title: Smart Questions Give Smart Answers
+image: images/computer.jpg
 date: 2021-1-25
 labels:
   - Stack Overflow
 ---
 
-![SO TEAMS LOGO](/images/computer.jpg)
+
 *Image sourced from Britannica*
 
 As most early (and veteran!) software developers know, StackOverflow is the go-to for all software engineering related questions. It's a tried and true staple
