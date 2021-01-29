@@ -7,7 +7,7 @@ labels:
   - Stack Overflow
 ---
 
-![SO TEAMS LOGO](/images/SO_TEAMS.png)
+![SO TEAMS LOGO](/images/FCC.png)
 *Image sourced from StackOverflowBlog*
 
 As most early (and veteran!) software developers know, StackOverflow is the go-to for all software engineering related questions. It's a tried and true staple
