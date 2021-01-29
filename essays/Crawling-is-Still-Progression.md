@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: Crawling is Still Progression
 date: 2021-1-18
+image: images/FCC.png
 labels:
   - WODs
   - Learning
