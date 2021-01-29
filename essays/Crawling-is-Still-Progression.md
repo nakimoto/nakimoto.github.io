@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: crawling is still progression
+title: Crawling is Still Progression
 date: 2021-1-18
 labels:
   - WODs
