@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: cat aerobics
+title: Cat Aerobics
 date: 2021-1-18
 labels:
   - Software Engineering
