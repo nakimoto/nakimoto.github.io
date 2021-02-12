@@ -24,7 +24,7 @@ Nevertheless, I really came to enjoy it. Eventually, you learn to code in alignm
 checkstyle errors anymore. That was simply the way that I coded. 
 I carried that style when I learned C and entered everything on command line and edited things in emacs. 
 
-While using ESLint in Javascript, I haven't been bothered by it at all. I think it's really helpful. I feel like it cuts my time debugging. 
+While using **ESLint** in **Javascript**, I haven't been bothered by it at all. I think it's really helpful. I feel like it cuts my time debugging. 
 When i think back to Java, I would have to manually run checkstyle and check the console for the errors, then go line-by-line fixing them. With ESLint, it tells me in real time. 
 I must prefer that method because I can adjust as I go. 
 Regarding coding standards, I have also always commented my code a lot. I recently became an ATA for Into to Java and I noticed many students don't comment their code well. 
