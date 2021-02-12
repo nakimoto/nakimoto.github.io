@@ -12,7 +12,9 @@ labels:
 
 *Image sourced from Road Traffic Signs*
 
->>**It's a green light for go!**
+>**It's a green light for go!**
+
+
 Throughout my journey coding, one of my favorite things has always been messing with the configurations of programs. When I was learning **Java**, I used **JGrasp**. JGrasp
 has a wonderful tool called **checkstyle** which is a way to keep up coding standards. Personally, coding standards are something I recommend everyone apply to their projects. 
 The benefit of having your code be more readable and flow in a common way definitely outweighs the irritance of having to adjust everything. 
