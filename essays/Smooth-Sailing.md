@@ -15,7 +15,7 @@ labels:
 *Image sourced from Geek Flare*
 
 **It's All Just Semantics, a Series of Haiku**
-
+==============================================
 |*Here in my web shop*
 |*Lies a beautiful page*
 |*Many nice columns*
