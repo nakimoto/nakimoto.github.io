@@ -28,8 +28,8 @@ Some shiny boxes
 A gorgeous background image
 
 A menu or two
-________________
 
+___________________
 A few clicks through it
 
 Will leave you wondering, how?
@@ -57,13 +57,14 @@ Collect your HTML
 
 Gather CSS!
 
-___________________
+________________________
 GitHub Warming Up
 
 IntelliJ Processing
 
 Come make a web page!
-_____________________
+
+
 >Semantic UI is a wonderwful resource that allows for a seamless creation of webpages using HTML, CSS, and JavaScript. During my time using it and learning the ins
 >and outs of it all, I came to really enjoy the idea of making webpages. I never considered taking it up as a skill or even a hobby in the past, but I definitely
 >plan to now. It's a great way to use your artistic and creative sense in website development. Having said that, boy is it frustrating! I spend so much time trying to figure out why my text isn't centered, why my images aren't showing up, why things are shifted to the left, etc. Finding the problem is often easy, but solving it is soemthing else entirely! Like a programming language, one small character in the wrong place can change a lot. 
