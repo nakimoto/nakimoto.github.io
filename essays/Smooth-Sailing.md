@@ -16,44 +16,50 @@ labels:
 
 **It's All Just Semantics, a Series of Haiku**
 ==============================================
-|*Here in my web shop*
+Here in my web shop
 
-|*Lies a beautiful page*
+Lies a beautiful page
 
-|*Many nice columns*
+Many nice columns
 
-|*Some shiny boxes*
 
-|*A gorgeous background image*
+Some shiny boxes
 
-|*A menu or two*
+A gorgeous background image
 
-|*A few clicks through it*
+A menu or two
 
-|*Will leave you wondering, how?*
 
-|*How can one do this?*
+A few clicks through it
 
-|*Semantic UI!*
+Will leave you wondering, how?
 
-|*Aha! How useful it is!*
+How can one do this?
 
-|*Teach me! Teach me! Please!*
 
-|*Now, come one! Come all!*
+Semantic UI!
 
-|*Welcome to my little shop*
+Aha! How useful it is!
 
-|*Where we learn design*
+Teach me! Teach me! Please!
 
-|*Grab your JavaScript!*
 
-|*Collect your HTML*
+Now, come one! Come all!
 
-|*Gather CSS!*
+Welcome to my little shop
 
-|*GitHub Warming Up*
+Where we learn design
 
-|*IntelliJ Processing*
 
-|*Come make a web page!*
+Grab your JavaScript!
+
+Collect your HTML
+
+Gather CSS!
+
+
+GitHub Warming Up
+
+IntelliJ Processing
+
+Come make a web page!
