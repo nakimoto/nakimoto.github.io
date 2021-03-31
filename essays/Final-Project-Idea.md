@@ -8,18 +8,16 @@ labels:
   - Meteor
 ---
 
-Project: Cat Aerobics Application 
+Project: Stray Cat Tracking Application 
 
-The Problem: Many cat owners with overweight cats, struggle to get them to lose weight! Many cats are picky about the toys they play with and limitation of food
-which makes it very difficult to manage their weight once they've gained quite a bit. 
+The Problem: Uh Manoa has many stray cats that wonder on campus. How can wel help keep track of thse stray cats and who feeds them? 
 
-The Solution: Cat Aerobics is an application where cat owners can share unique tips and tricks to help their furry friends gets healthy. 
-Sections: basic site given exercises filtered by age range and sizes (chubby, hefty, chonky), area where users can make submissions for exercises, area where users
-can submit tips that have worked for their cat(s), basic description on obesity in cats, section with user submitted progress photos. 
+The Solution: Cat-snap is an application that allows students to snap pictures of stray cats on campus and upload them. Students an upload any information known about them such as name, gender, age range, if any illness is visibly present, and who feeds them/if they've been fed recently. 
 
-Mock-up Pages: landing page, user page, admin page, exercises page, search by cat size, search by cat age
+Mock-up Pages: landing page, user page, admin page, cat pictures page, search by campus location/area, stray cat help page 
 
-Use case ideas: new user goes to landing page, logs in, sets up profile with basic information about their cat, Admin goes to landing page, can log in and edit site,
-user goes to landing page, can log in browse exercises, user goes to landing page, can log in and submit suggestion exercises, user goes to landing page, can log in and browse tips, user goes to landing page, can log in and submit tips,
-users go to landing page, can log in and browse progress photos, users go to landing page, can log in and submit progress photos. 
+Use case ideas: new user goes to landing page, logs in, sets up profile with basic information, Admin goes to landing page, can log in and edit site,
+user goes to landing page, can log in and brose posted cats, user goes to landing page, can log in and submit cats, user goes to landing page, can log in and browse info, user goes to landing page, can log in and submit info.
+
+Beyond the basics: Cat mapping around campus, cat emergency notifications, cat adoption/ vet pickup notification, cat spay/neuter notification, cat has had kittens notification
 
