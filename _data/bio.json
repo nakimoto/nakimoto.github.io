@@ -9,7 +9,7 @@
     "summary": "I am an undergraduate student studying Computer Science for my B.S. I currently work at JABSOM as a computer science student researcher and I am an undergraduate fellow at the Hawaii Data Science Institute.",
     "location": {
       "address": "",
-      "postalCode": "96818",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -48,10 +48,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "C",
         "C++",
         "Java",
         "Javascript",
         "Python",
+        "HTML", 
+        "CSS",
+        
         
       ]
     },
@@ -62,6 +66,7 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
+        "Linux",
         
         
       ]
@@ -82,7 +87,7 @@
       
       "startDate": "2020-06-01",
       "endDate": "Present",
-      "summary": "Computer Science themes research projects",
+      "summary": "Computer Science research projects",
       "highlights": [
         "Built an HPC for the laboratory"
         
