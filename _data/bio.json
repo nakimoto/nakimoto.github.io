@@ -53,7 +53,7 @@
     {
       "name": "Analytical Prediction",
       
-    }
+    },
   ],
   "skills": [
     {
@@ -91,13 +91,15 @@
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected graduation fall, 2021)",
-      "studyType": "B.S.",
-      
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "studyType": "B.S.", 
+    
+    },
+    
+    {
+     "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected enrollment spring 2022, expected graduation spring, 2023)",
       "studyType": "M.S.",
-    
-    }
+    },
   ],
   "work": [
     {
@@ -123,7 +125,7 @@
         "DOD Global Terrorism Database project",
         "MOKU medicinal plants project"
       ]
-    }
+    },
     {
       "company": "Hawaii Space Grant Consortium",
       "position": "Undergraduate Research Intern",
@@ -131,7 +133,7 @@
       "startDate": "May 24, 2021",
       "endDate": "Present",
       "summary": "C++ coding and machine learning for rovers",
-    }
+    },
   ],
   "volunteer": [
     {
