@@ -6,7 +6,7 @@
     "email": "nkimoto@hawaii.edu",
     "phone": "",
     "website": "https://nakimoto.github.io",
-    "summary": "I am an undergraduate student studying Computer Science for my B.S. I currently work at JABSOM as a computer science student researcher and I am an undergraduate fellow at the Hawaii Data Science Institute.",
+    "summary": "I am an undergraduate student part of the BaM Bachelors to Masters program in Computer Science at the University of Hawaii at Manoa. I currently work at JABSOM as a computer science undergraduate researcher and I am an undergraduate fellow at the Hawaii Data Science Institute.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -35,11 +35,23 @@
     
     },
     {
+      "name": "Computer Vision",
+    
+    },
+    {
+      "name": "Human-Computer Interaction",
+    
+    },
+    {
+      "name": "Machine Learning",
+    
+    },
+    {
       "name": "Robotics",
       
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Analytical Prediction",
       
     }
   ],
@@ -55,8 +67,11 @@
         "Python",
         "HTML", 
         "CSS",
-        
-        
+        "MONGO",
+        "Meteor",
+        "Semantic UI",
+        "REACT",
+    
       ]
     },
     {
@@ -64,7 +79,7 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Windows",
         "Git/GitHub",
         "Linux",
         
@@ -77,6 +92,10 @@
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected graduation fall, 2021)",
       "studyType": "B.S.",
+      
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected enrollment spring 2022, expected graduation spring, 2023)",
+      "studyType": "M.S.",
     
     }
   ],
@@ -87,9 +106,9 @@
       
       "startDate": "2020-06-01",
       "endDate": "Present",
-      "summary": "Computer Science research projects",
+      "summary": "Computer Science-related research",
       "highlights": [
-        "Built an HPC for the laboratory"
+        "Built an HPC for laboratory use"
         
       ]
     },
@@ -105,16 +124,21 @@
         "MOKU medicinal plants project"
       ]
     }
+    {
+      "company": "Hawaii Space Grant Consortium",
+      "position": "Undergraduate Research Intern",
+      "website": "http://www.spacegrant.hawaii.edu",
+      "startDate": "May 24, 2021",
+      "endDate": "Present",
+      "summary": "C++ coding and machine learning for rovers",
+    }
   ],
   "volunteer": [
     {
-      "organization": "Doctors Without Borders",
-      "website": "https://www.doctorswithoutborders.org",
-      "position": "Mapathon volunteer",
-      "highlights": [
-        "Use mapping software to help determine areas or the world that need humanitarian aid",
-        
-      ]
+      "organization": "(SCEL) Smart Campus Energy Lab",
+      "website": "https://scel-hawaii.org",
+      "position": "Computer science volunteer for team-based projects",
+      
     },
     
   ],
