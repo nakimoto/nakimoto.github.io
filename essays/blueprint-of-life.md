@@ -24,13 +24,14 @@ After doing the body filler, I moved on to begin replacing the trimming. I reali
 
 I ran into this situation again, when I accidentally oversprayed repair paint onto my back window. I now had another problem. Like everyone these days, I went directly to google and youtube for a solution. I watched a vdeio where an individual used a sharp razorblade in a downward motion in order to scrape the overspray off. However, I have tinted windows. My back window especially, has some bubbling of the old tint and i didn't want to cause harm to the tint overlay. I applied my same thinking from before. "How did I solve my previous problem?". When examining the razor blade, I realised the solution existed in the concept that it was applied at an angle, and it was sharp. I knew another tool that was sharp and angled...my scraper! The same one from before. The idea, or blueprint of the solution was the same. Application was different.
 
->I was teaching a new dog old tricks. 
+**I was teaching a new dog old tricks.**
+
+
+# Oh, how nice it would be! to have a (software) Blueprint of Life. 
 
 ![alt text](https://spectrum.ieee.org/image/MzYzNjYzMw.jpeg)
 
 *Image sourced from ieee.org*
-
-# Oh, how nice it would be! to have a (software) Blueprint of Life. 
 
 I have been working with three other people to create an application for a student budget-friendly meal website. Ideally, my group and I would like to have a functional web application that can be used to create, share, and favorite inexpensive recipes that can easily be made by the average college student. I have been implementing testing for the application's functions using testcafe. The testcontroller moves through the different pages and functionalities we currently have. 
 
