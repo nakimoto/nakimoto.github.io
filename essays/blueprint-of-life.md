@@ -5,16 +5,36 @@ title: Blueprint of Life
 date: 2021-4-29
 labels:
   - Software Engineering
-  - design Patterns
+  - Design Patterns
+  - JavaScript
+  - Problem Solving
 ---
+
+![alt text](https://hips.hearstapps.com/amv-prod-gp.s3.amazonaws.com/gearpatrol/wp-content/uploads/2019/09/1990-Lexus-LS400-gear-patrol-lead-featured.jpg)
+
+*Image sourced from Gear Patrol*
+
+# Teaching a New Dog Old Tricks
+ Do you ever find yourself listening to a friend's problems, only to realise that you've worn their shoes before? You start to give them advice on what you did to 
+ to handle the situation. Maybe you even write down some of your most promised solutions for them to use whenever they need. Your friend shares your great ideas   with another friend, who shares it with another friend, and so on. Soon, your solutions become a blueprint for similar problem solving between a group of mutual friends.
+ 
+I recently came into the possession of a 1990 first generation Lexus LS400. This car is 31 years old but only has 18,000 miles on it. It has some wear and tear to the paint and to the trimming on the back. There was also a part on the bumper that needed to be filled with automotive body filler. At AutoZone, there are these little tools you can buy that were originally designed for spreading body filler over a surface. This is their intended purpose, so I purchased them as a solution for my initial problem. 
+
+After doing the body filler, I moved on to begin replacing the trimming. I realised I had a new problem! I didn't have the specific tools to remove the old trimming from the car. When looking around on Amazon for the tools, I noticed that they have similar designs and elements of the body filler tool. They are both scraper like tools made of plastic that are used in order to not scratch automotive body paint. I got to thinking...what if I applied my previous solution from before...for my new problem? Naturally, I tried it out. I sat my car in the sun at the local park and waited a while. I took my plastic scraper and started slowly removing the trimming and it worked! There wasn't any need for me for come up with (or purchase) a new solution, because I could apply a similar solution from before. 
+
+I ran into this situation again, when I accidentally oversprayed repair paint onto my back window. I now had another problem. Like everyone these days, I went directly to google and youtube for a solution. I watched a vdeio where an individual used a sharp razorblade in a downward motion in order to scrape the overspray off. However, I have tinted windows. My back window especially, has some bubbling of the old tint and i didn't want to cause harm to the tint overlay. I applied my same thinking from before. "How did I solve my previous problem?". When examining the razor blade, I realised the solution existed in the concept that it was applied at an angle, and it was sharp. I knew another tool that was sharp and angled...my scraper! The same one from before. The idea, or blueprint of the solution was the same. Application was different.
+
+>I was teaching a new dog old tricks. 
 
 ![alt text](https://spectrum.ieee.org/image/MzYzNjYzMw.jpeg)
 
 *Image sourced from ieee.org*
 
-# Oh, how nice it would be! to have a blueprint of life. 
- Do you ever find yourself listening to a friend's problems, only to realise that you've worn their shoes before? You start to give them advice on what you did to 
- to handle the situation. Maybe you even write down some of your most promised solutions for them to use whenever they need. Your friend shares your gread ideas with 
- another friend, who shares it with another friend, and so on. Soon, your solutions become a blueprint for similar problem solving between a group of mutual friends.
+# Oh, how nice it would be! to have a (software) Blueprint of Life. 
+
+I have been working with three other people to create an application for a student budget-friendly meal website. Ideally, my group and I would like to have a functional web application that can be used to create, share, and favorite inexpensive recipes that can easily be made by the average college student. I have been implementing testing for the application's functions using testcafe. The testcontroller moves through the different pages and functionalities we currently have. 
+
+
+
  
 
