@@ -11,8 +11,11 @@ labels:
 ---
 
 <div style="text-align:center"><img src="https://hips.hearstapps.com/amv-prod-gp.s3.amazonaws.com/gearpatrol/wp-content/uploads/2019/09/1990-Lexus-LS400-gear-patrol-lead-featured.jpg" /></div>
-  
-*Image sourced from Gear Patrol*
+ 
+ <p align="center">
+ *Image sourced from Gear Patrol*
+</p>
+
 
 # Teaching a New Dog Old Tricks
  Do you ever find yourself listening to a friend's problems, only to realise that you've worn their shoes before? You start to give them advice on what you did to 
@@ -31,7 +34,10 @@ I ran into this situation again, when I accidentally oversprayed repair paint on
 
 <div style="text-align:center"><img src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" /></div>
 
-*Image sourced from pinterest*
+ <p align="center">
+ *Image sourced from pinterest*
+</p>
+
 
 I have been working with three other people to create an application for a student budget-friendly meal website. Ideally, my group and I would like to have a functional web application that can be used to create, share, and favorite inexpensive recipes that can easily be made by the average college student. I have been implementing testing for the application's functions using testcafe. The test controller moves through the different pages and functionalities we currently have. 
 While writing up the tests, I realised that any of the problems I ran into with matching IDs on pages with the testcafe file itself, were just a reiteration of a problem before. I had an issue with our add recipe page not passing testing. An error message was displayed on my terminal letting me know that the "specified selector didn't exist in the DOM tree", meaning the selector IDs didn't match so the test controller couldn't access it. 
@@ -39,9 +45,11 @@ I was able to fix this renaming the selector to match the ID. Carrying on, I enc
 
 This time around, it took some extra elbow grease. Instead of simply matching IDs, I went back into commit history to see all the individual changes to our main GitHub repository branch. I saw that there was a commit in which someone changes IDs when creating a page, but it wasn't necessary. I had to go back and change all of the IDs to the previous form, and apply my solution(s). I also realised the test controller had to be logged in with administrator credentials, and not user credentials. I went back to look at my solution for adding recipes (and other pages) for how the test controller logged into the user. I applied that same idea and had the test controller log into the administrator to complete it's testing. 
 
-It worked! 
+ <p align="center">
+ **It worked!!!!**
+</p>
 
-Are all of life's problems solveable by a common solution? well...I'll let you know when I turn 100! 
+*Are all of life's problems solveable by a common solution?* well...I'll let you know when I turn **100!** 
 
 
 
