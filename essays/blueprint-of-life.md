@@ -13,7 +13,7 @@ labels:
 <div style="text-align:center"><img src="https://hips.hearstapps.com/amv-prod-gp.s3.amazonaws.com/gearpatrol/wp-content/uploads/2019/09/1990-Lexus-LS400-gear-patrol-lead-featured.jpg" /></div>
  
  <p align="center">
- *Image sourced from Gear Patrol*
+  <i>Image sourced from Gear Patrol</i>
 </p>
 
 
@@ -35,7 +35,7 @@ I ran into this situation again, when I accidentally oversprayed repair paint on
 <div style="text-align:center"><img src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" /></div>
 
  <p align="center">
- *Image sourced from pinterest*
+  <i>Image sourced from pinterest</i>
 </p>
 
 
