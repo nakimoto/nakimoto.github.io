@@ -27,7 +27,7 @@ After doing the body filler, I moved on to begin replacing the trimming. I reali
 
 I ran into this situation again, when I accidentally oversprayed repair paint onto my back window. I now had another problem. Like everyone these days, I went directly to google and youtube for a solution. I watched a video where an individual used a sharp razor blade in a downward motion in order to scrape the overspray off. However, I have tinted windows. My back window especially, has some bubbling of the old tint and i didn't want to cause harm to the tint overlay. I applied my same thinking from before. "How did I solve my previous problem?". When examining the razor blade, I realised the solution existed in the concept that it was applied at an angle, and it was sharp. I knew another tool that was sharp and angled...my scraper! The same one from before. The idea, or blueprint of the solution was the same. Application was different.
 
-## **I was teaching a new dog old tricks.**
+### **I was teaching a new dog old tricks.**
 
 
 # Oh, how nice it would be! to have a (software) Blueprint of Life. 
