@@ -34,6 +34,14 @@ I ran into this situation again, when I accidentally oversprayed repair paint on
 *Image sourced from ieee.org*
 
 I have been working with three other people to create an application for a student budget-friendly meal website. Ideally, my group and I would like to have a functional web application that can be used to create, share, and favorite inexpensive recipes that can easily be made by the average college student. I have been implementing testing for the application's functions using testcafe. The testcontroller moves through the different pages and functionalities we currently have. 
+While writing up the tests, I realised that any of the problems I ran into with matching IDs on pages with the testcafe file itself, were just a reiteration of a problem before. I had an issue with our add recipe page not passing testing. An error message was displayed on my terminal letting me know that the "specified selector didn't exist in the DOM tree", meaning the selector IDs didn't match so the testconteoller couldn't access it. 
+I was able to fix this renaming the selector to match the ID. Carrying on, I encountered a similar problem with an administrator page. I realised that this was a similar issue, so theoretically, I should be able to use a similar solution or idea. 
+
+This time around, it took some extra elbow grease. Instead of simply matching IDs, I went back into commit history to see all the individual changes to our main GitHub repository branch. I saw that there wad a commit in which someone changes IDs when creating a page, but it wasn't necesarry. I had to go back and change all of the IDs to the previous form, and apply my solution(s). I also realsied the testcontroller had to be logged in with administrator credentials, and not user credentials. 
+
+I went back to look at my solution for add recipe (and other pages) for how the tectcontroller logged into user. I applied that same idea and had the testcontroller log into administrator to complete it's testing. It worked! 
+
+There's nothing better than a **blueprint for life!*
 
 
 
