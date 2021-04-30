@@ -27,7 +27,7 @@ After doing the body filler, I moved on to begin replacing the trimming. I reali
 
 I ran into this situation again, when I accidentally oversprayed repair paint onto my back window. I now had another problem. Like everyone these days, I went directly to google and youtube for a solution. I watched a video where an individual used a sharp razor blade in a downward motion in order to scrape the overspray off. However, I have tinted windows. My back window especially, has some bubbling of the old tint and i didn't want to cause harm to the tint overlay. I applied my same thinking from before. "How did I solve my previous problem?". When examining the razor blade, I realised the solution existed in the concept that it was applied at an angle, and it was sharp. I knew another tool that was sharp and angled...my scraper! The same one from before. The idea, or blueprint of the solution was the same. Application was different.
 
-**I was teaching a new dog old tricks.**
+## **I was teaching a new dog old tricks.**
 
 
 # Oh, how nice it would be! to have a (software) Blueprint of Life. 
@@ -46,7 +46,7 @@ I was able to fix this renaming the selector to match the ID. Carrying on, I enc
 This time around, it took some extra elbow grease. Instead of simply matching IDs, I went back into commit history to see all the individual changes to our main GitHub repository branch. I saw that there was a commit in which someone changes IDs when creating a page, but it wasn't necessary. I had to go back and change all of the IDs to the previous form, and apply my solution(s). I also realised the test controller had to be logged in with administrator credentials, and not user credentials. I went back to look at my solution for adding recipes (and other pages) for how the test controller logged into the user. I applied that same idea and had the test controller log into the administrator to complete it's testing. 
 
  <p align="center">
- **It worked!!!!**
+ **It worked!**
 </p>
 
 *Are all of life's problems solveable by a common solution?* well...I'll let you know when I turn **100!** 
