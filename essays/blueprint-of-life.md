@@ -29,7 +29,7 @@ I ran into this situation again, when I accidentally oversprayed repair paint on
 
 # Oh, how nice it would be! to have a (software) Blueprint of Life. 
 
-![alt text](https://spectrum.ieee.org/image/MzYzNjYzMw.jpeg)
+![alt text](http://mayurbardolia.com/wp-content/uploads/2017/04/banner.png)
 
 *Image sourced from ieee.org*
 
