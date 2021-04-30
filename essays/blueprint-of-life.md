@@ -46,7 +46,7 @@ I was able to fix this renaming the selector to match the ID. Carrying on, I enc
 This time around, it took some extra elbow grease. Instead of simply matching IDs, I went back into commit history to see all the individual changes to our main GitHub repository branch. I saw that there was a commit in which someone changes IDs when creating a page, but it wasn't necessary. I had to go back and change all of the IDs to the previous form, and apply my solution(s). I also realised the test controller had to be logged in with administrator credentials, and not user credentials. I went back to look at my solution for adding recipes (and other pages) for how the test controller logged into the user. I applied that same idea and had the test controller log into the administrator to complete it's testing. 
 
  <p align="center">
- **It worked!**
+ <strong> It worked!!!! </strong>
 </p>
 
 *Are all of life's problems solveable by a common solution?* well...I'll let you know when I turn **100!** 
