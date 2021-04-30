@@ -45,7 +45,7 @@ This time around, it took some extra elbow grease. Instead of simply matching ID
 
 It worked! 
 
-There's nothing better than a **blueprint for life!**
+Are all of life's problems solveable by a common solution? well...I'll let you know when I turn 100! 
 
 
 
