@@ -29,9 +29,9 @@ I ran into this situation again, when I accidentally oversprayed repair paint on
 
 # Oh, how nice it would be! to have a (software) Blueprint of Life. 
 
-![alt text](http://mayurbardolia.com/wp-content/uploads/2017/04/banner.png)
+![alt text](https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif)
 
-*Image sourced from instructure*
+*Image sourced from pinterest*
 
 I have been working with three other people to create an application for a student budget-friendly meal website. Ideally, my group and I would like to have a functional web application that can be used to create, share, and favorite inexpensive recipes that can easily be made by the average college student. I have been implementing testing for the application's functions using testcafe. The testcontroller moves through the different pages and functionalities we currently have. 
 While writing up the tests, I realised that any of the problems I ran into with matching IDs on pages with the testcafe file itself, were just a reiteration of a problem before. I had an issue with our add recipe page not passing testing. An error message was displayed on my terminal letting me know that the "specified selector didn't exist in the DOM tree", meaning the selector IDs didn't match so the testconteoller couldn't access it. 
@@ -41,7 +41,7 @@ This time around, it took some extra elbow grease. Instead of simply matching ID
 
 I went back to look at my solution for add recipe (and other pages) for how the tectcontroller logged into user. I applied that same idea and had the testcontroller log into administrator to complete it's testing. It worked! 
 
-There's nothing better than a **blueprint for life!*
+There's nothing better than a **blueprint for life!**
 
 
 
