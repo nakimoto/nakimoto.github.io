@@ -61,3 +61,12 @@ and unhappy developers made me think about the small choices we make every day i
 do I have any choice, etc. What is the "social contract" between an individual and their technology? Personally, I can't see the researchers' perspective at all in the situation I mentioned above, because the social contract between them and the open-source community
 was broken. 
 
+# Progression 
+
+Apple recently released a new version of iOS that requires applications to ask whether you would like them to track you and your information. In their own words:
+
+> *"Starting with iOS 14.5, iPadOS 14.5, and tvOS 14.5, you’ll need to receive the user’s permission through the AppTrackingTransparency framework to track them or access their device’s advertising identifier. Tracking refers to the act of linking user or device data collected from your app with user or device data collected from other companies’ apps, websites, or offline properties for targeted advertising or advertising measurement purposes. Tracking also refers to sharing user or device data with data brokers."*
+
+You can read the full user privacy and data use section [here](https://developer.apple.com/app-store/user-privacy-and-data-use/).
+
+I have absolutely not allowed apps to track me after this function was released. Facebook (and sister site *Instagram*), a site that is known for its severe data leaks, is now taking Apple to court claiming this new feature will bankrupt them because they can no longer personally advertise to individuals without their consent. My opinion on Facebook is already low, so low in fact it's beneath the Earth's crust, but it really showed me how valuable personal data is for companies in this digital age. There was a politician a while back that pushed for this idea that your personal data is worth money and that harvesting it would rewuire monetary payment, regardless of access to a device or other technology you seemingly get for free. I begin to wonder if data harvesting is really ethical or have we all just agreed that its a "necesarry evil" in order to keep our beloved social media services. At what point do the cons outweigh the pros? 
