@@ -14,10 +14,10 @@ labels:
 # Becoming a Senior Citizen...of my University 
 
 
-<div style="text-align:center"><img src="https://2e8ram2s1li74atce18qz5y1-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/shutterstock_517670749-1024x613.jpg" /></div>
+<div style="text-align:center"><img src="https://greenvalleyhs.org/wp-content/uploads/2018/10/graduationCap.jpg" /></div>
  
  <p align="center">
-  <i>Image sourced from Dice Insights </i>
+  <i>Image sourced from Green Valley </i>
 </p>
 
 As I'm getting closer and closer to graduating with my bachelor's degree in computer science, I've learned to refine my coding a lot more. I was lucky that in the beginning of my college degree, 
@@ -45,10 +45,10 @@ Open-source software is described as software that is open for anyone to contrib
 to the system. The success of open-source is heavily reliant on the dedicated community members who keep the software up to date and handle bugs or security issues. Most of this community base
 consist of people with some developer background whther it's by profession or hobby. This information is important when considering the backlash the researchers recieved from this very same community. 
 
-<div style="text-align:center"><img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/10/Pharming-Attack-Hacker-1.jpg" /></div>
+<div style="text-align:center"><img src="http://www.mcgilltribune.com/wp-content/uploads/2020/02/hacker.png" /></div>
  
  <p align="center">
-  <i>Image sourced from Make Use Of </i>
+  <i>Image sourced from Mcgrill Tribune </i>
 </p>
 
 A few times a year, a celebrity or youtuber gets their accounts hacked and the hacker may say something such as don't worry just testing your security" but it was without
@@ -82,10 +82,10 @@ Apple recently released a new version of iOS that requires applications to ask w
 > *"Starting with iOS 14.5, iPadOS 14.5, and tvOS 14.5, you’ll need to receive the user’s permission through the AppTrackingTransparency framework to track them or access their device’s advertising identifier. Tracking refers to the act of linking user or device data collected from your app with user or device data collected from other companies’ apps, websites, or offline properties for targeted advertising or advertising measurement purposes. Tracking also refers to sharing user or device data with data brokers."* (You can read the full user privacy and data use section [here](https://developer.apple.com/app-store/user-privacy-and-data-use/).)
 
 
-<div style="text-align:center"><img src="https://cdn.vox-cdn.com/thumbor/KV6AYDaoMkKN_Mqv1BSpAp2Ez8I=/0x0:3360x2100/1200x800/filters:focal(1412x782:1948x1318)/cdn.vox-cdn.com/uploads/chorus_image/image/69192540/app_tracking_transparency.0.png" /></div>
+<div style="text-align:center"><img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iOS/ios14-iphone11-pro-settings-software-update-available-ontap.jpg" /></div>
  
  <p align="center">
-  <i>Image sourced from The Verge </i>
+  <i>Image sourced from Apple </i>
 </p>
 
 I have absolutely not allowed apps to track me after this function was released. Facebook (and sister site *Instagram*), a site that is known for its severe data leaks, is now taking Apple to court claiming this new feature will bankrupt them because they can no longer personally advertise to individuals without their consent. My opinion on Facebook is already low, so low in fact it's beneath the Earth's crust, but it really showed me how valuable personal data is for companies in this digital age. There was a politician a while back that pushed for this idea that your personal data is worth money and that harvesting it would require monetary payment, regardless of access to a device or other technology you seemingly get for free. I begin to wonder if data harvesting is really ethical or have we all just agreed that its a "necesarry evil" in order to keep our beloved social media services. At what point do the cons outweigh the pros? 
