@@ -7,16 +7,20 @@ labels:
   - Stack Overflow
 ---
 
-![alt text](https://cdn.britannica.com/30/199930-131-B3D1D347/computer.jpg)
+<div style="text-align:center"><img src="https://www.stockspots.eu/wp-content/uploads/2019/10/2350619-1.png" /></div>
+ 
+ <p align="center">
+  <i>Image sourced from Stock Spots</i>
+</p>
 
-*Image sourced from Britannica*
 
-As most early (and veteran!) software developers know, StackOverflow is the go-to for all software engineering related questions. It's a tried and true staple
+As most software developers know, StackOverflow is the go-to for all software engineering related questions. It's a tried and true staple
 in the community. StackOverflow is a forum-like website that allows users to ask specific questions and get advice from more veteran developers.
 Although many people argue that there are no stupid questions, there are certainly questions that could be *smarter*. Is there a specifc way we should all be
 questions? As it turns out, there is! 
->Eric Raymond created a series of guidelines to help formulate smart questions, in order to get a truly useful answer. As I read through these guidelines, I
-thought about the many times I may have asked a question in this same fashion. You never think about how you ask questions in a way that would get you a great response. 
+
+Software developer *Eric Raymond* created a series of guidelines to help formulate smart questions in order to get a truly useful answer. As I read through these guidelines, I thought about how I would formulate my questions about anything in the past. How many of those questions were actually...stupid?
+
 **According to Eric's guidelines, some examples of not-so-smart questions include the following:**
 
 >1. Posting your question in the wrong area of a forum or website
