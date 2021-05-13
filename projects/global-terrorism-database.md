@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-title: Global Terrorism Database
+title: global terrorism database
 image: images/gtdd.jpg
-permalink: projects/Global-Terrorism-Database
+permalink: projects/global-terrorism-database
 date: 2020-12-05
 labels:
   - Data Science
