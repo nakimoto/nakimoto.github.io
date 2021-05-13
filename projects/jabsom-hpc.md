@@ -15,7 +15,7 @@ summary: I built and HPC for the biosciences lab at JABSOM.
 In the summer of 2020 I started working at the **Biosciences Expmed lab** at **John A. Burns School of Medicine** as an udergraduate research assistant. I worked on building an HPC for the lab to use, in order to process high quality imaging data more efficiently. I put together several servers and I installed *Centos*, *gulp*, and *slurm* on them. We used recycled servers from old offices and used parts ordered from various websites. The process took me about six weeks. 
 
 I also upgraded all the hard drives as well as the ram. We had sixteen servers all with 320gb of ram and twenty-four terabytes of storage each. 
-<div style="text-align:center"><img src="/images/bubblesram.jpg" /></div>
+  <div style="text-align:center"><img src="/images/bubblesram.jpg" alt="HTML5 Icon" width="500" height="500"></div>
 
 After it was all said and done, I named the frankenstein HPC "**Bubbles**"!
 
@@ -27,7 +27,8 @@ Working with centos and redhat linux was a little troublesome from time to time 
 # Future Use 
 Bubbles will be used to high quality image and data processing by the laboratory. Upgrading the GPU and monitor is in the near future. 
 
-<div style="text-align:center"><img src="/images/bubbles2.jpg" /></div>
-<div style="text-align:center"><img src="/images/bubbles.jpg" /></div>
+<div style="text-align:center"><img src="/images/bubbles2.jpg" alt="HTML5 Icon" width="500" height="500"></div>
+<div style="text-align:center"><img src="/images/bubbles.jpg" alt="HTML5 Icon" width="500" height="500"></div>
+
 
 If you'd like more information about the Expmed lab, check it out here at [EXPMEDLAB](http://www.expmed.org)
