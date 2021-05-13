@@ -30,5 +30,5 @@ Bubbles will be used to high quality image and data processing by the laboratory
 <div style="text-align:center"><img src="/images/bubbles2.jpg" alt="HTML5 Icon" width="500" height="500"></div>
 <div style="text-align:center"><img src="/images/bubbles.jpg" alt="HTML5 Icon" width="500" height="500"></div>
 
-
+If you have any follow-up questions about this project and my work, please [contact me](mailto:nkimoto@hawaii.edu).
 If you'd like more information about the Expmed lab, check it out here at [EXPMEDLAB](http://www.expmed.org)
