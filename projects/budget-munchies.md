@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-title: budget munchies
+title: Budget Munchies
 image: images/avo.jpg
 permalink: projects/budget-munchies
 date: 2020-05-11
