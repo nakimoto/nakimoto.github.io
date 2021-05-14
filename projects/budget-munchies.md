@@ -4,7 +4,7 @@ type: project
 title: Budget Munchies
 image: images/avo.jpg
 permalink: projects/budget-munchies
-date: 2020-05-11
+date: 2021-05-11
 labels:
   - Software Engineering
   - Programming
