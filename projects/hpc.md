@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-title: jabsom hpc
+title: HPC
 image: images/cropped-jabsom-favicon-01.png
-permalink: projects/jabsom-hpc
+permalink: projects/hpc
 date: 2020-06-21
 labels:
   - Information Technology
