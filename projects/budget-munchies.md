@@ -17,7 +17,7 @@ struggle to find afforable and easy to make recipes with the appliances they hav
 recipes by the community. Students would be able to specify ingredients, cook and preperation time, appliances used, and dietary restrictions. 
 Students can browse recipes from breakfast, lunch, dinner, snack, and dessert. 
 We also have a "recipes of the week" section on the home page, and a place to view some of the developers' favorite vendors. Students can also leave comments about those vendors.
-This application does require an account to see anything beyond the landing page. There admin features that allow the administrator to add new vendors and see all recipes currently hosted. 
+This application does require an account to see anything beyond the landing page. There are admin features that allow the administrator to add new vendors and see all recipes currently hosted. 
 
 ### Project Home Page
 <div style="text-align:center"><img src="/images/signedinlanding.png" alt="HTML5 Icon" width="900" height="500"></div>
@@ -30,11 +30,12 @@ This application does require an account to see anything beyond the landing page
 <div style="text-align:center"><img src="/images/addrecipe.png" alt="HTML5 Icon" width="900" height="500"></div>
 
 # Individual Project Goals
-This project was split into three milestones as part of the project planning process. For **milestone one**, I handled all of the project write-up in the homepage and a few of the
-components. I also handled assigning issues. 
+This project was split into three milestones as part of the project planning process. For **milestone one**, I handled all of the project write-up in the homepage and a few of the components. I also handled assigning issues. 
+
 For **milestone two**, I began implementing continuous integration and testing via testcafe. This testing requires the creation of testing pages and ID's from specifc elements
 must match in order for the testcontroller to properly execute. The homepage contains a digital pasge that shocases current testing results. During this time, I began including a user guide and developer guide into the homepage. I also assigned
 new issues to the team. 
+
 Finally, during **milestone three** I implemented more testing (a total of thirteen pages), updated the homepage to include an in-depth user guide and administrator 
 guide. I made a few CSS changes and removed unnecessary files from the underlying applicaiton template. The testing is very time consuming and required me to wait for the rest of my time to finish any assigned pages. The reason for this is because testing is reliant on
 ID values matching. One of the lessons I learning from our second milestone is that it doesn't work to do it as you go along, it's better to wait for everyone else to be finished
