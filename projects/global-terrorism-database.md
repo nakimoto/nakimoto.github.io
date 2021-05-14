@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-title: global terrorism database
+title: Global Terrorism Database
 image: images/gtdd.jpg
 permalink: projects/global-terrorism-database
 date: 2020-12-05
