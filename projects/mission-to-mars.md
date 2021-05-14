@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-title: mission to mars 
+title: Mission to Mars 
 image: images/nasa.jpg
 permalink: projects/mission-to-mars
 date: 2018-12-16
