@@ -9,7 +9,7 @@ labels:
   - Information Technology
   - Computer Science
   - Super Computing
-summary: I built and HPC for the biosciences lab at JABSOM. 
+summary: I built an HPC for the biosciences lab at JABSOM. 
 ---
 # Project Background
 In the summer of 2020 I started working at the **Biosciences Expmed lab** at **John A. Burns School of Medicine** as an udergraduate research assistant. I worked on building an HPC for the lab to use, in order to process high quality imaging data more efficiently. I put together several servers and I installed *Centos*, *gulp*, and *slurm* on them. We used recycled servers from old offices and used parts ordered from various websites. The process took me about six weeks. 
