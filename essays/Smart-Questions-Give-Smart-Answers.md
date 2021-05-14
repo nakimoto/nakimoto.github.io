@@ -5,6 +5,8 @@ title: Smart Questions Give Smart Answers
 date: 2021-1-25
 labels:
   - Stack Overflow
+  - Software Engineering
+  - Programming
 ---
 
 <div style="text-align:center"><img src="https://www.stockspots.eu/wp-content/uploads/2019/10/2350619-1.png" /></div>
@@ -29,14 +31,14 @@ Software developer *Eric Raymond* created a series of guidelines to help formula
 >3. Cross-posting to various forums or websites
 >4. Emailing someone whom you don't have a pre-existing relationship with 
 
-# What's a Not-So-Smart Question? Let's Look at an Example.
+# What's a Not-So-Smart Question?
 
 [Here](https://stackoverflow.com/questions/32547805/any-way-to-make-mysql-not-freeze-my-computer) is an example of a stupid question. In this post on StackOverflow, a user asks how to stop MySQL from freezing their computer.
 The only details they give about it don't include the hardware details. The user doesn't mention what brand of computer, year, device type, or even operating system! As you scroll through this page, you will notice a user asking for the original poster's server specifications. 
 When you don't include important details like that, it makes it more likely that someone will simply pass up your question or even ask for it to be removed. The post itself was also downvoted, which most users will do if they feel it is a poorly asked question.
 
 
-## How Does One Ask *smart* Questions?
+## How Does One Really Ask *smart* Questions?
 
 Well, it's not about which questions you ask, it's about *how* you ask them. 
 Here are some tips, according to Eric, to help you ask your questions in the best way possible.
@@ -50,7 +52,7 @@ Here are some tips, according to Eric, to help you ask your questions in the bes
 
 You can access the entire set of guidelines [here](http://www.catb.org/esr/faqs/smart-questions.html)
 
- ## "Well, Show Me a Smart Question Example!"
+ ## What Does a Smart Question Look Like?
  
 *Ask and you shall recieve!*
 
