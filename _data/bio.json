@@ -108,9 +108,9 @@
       
       "startDate": "2020-06-01",
       "endDate": "Present",
-      "summary": "Computer Science-related research",
+      "summary": "Computer Science related research",
       "highlights": [
-        "Built an HPC for laboratory use"
+        "Building an HPC (High Performance Computer) for high resolution image and data processing"
         
       ]
     },
@@ -120,19 +120,12 @@
       "website": "https://datascience.hawaii.edu",
       "startDate": "2020-08-27",
       "endDate": "Present",
-      "summary": "Semester long Data Science research projects",
+      "summary": "Data Science related research",
       "highlights": [
-        "DOD Global Terrorism Database project",
-        "MOKU medicinal plants project"
+        "Global Terrorism Data Analytics",
+        "Phytomedicine Growth Mapping",
+        "Light-Field Microscopy Research and Applications"
       ]
-    },
-    {
-      "company": "Hawaii Space Grant Consortium",
-      "position": "Undergraduate Research Intern",
-      "website": "http://www.spacegrant.hawaii.edu",
-      "startDate": "May 24, 2021",
-      "endDate": "Present",
-      "summary": "C++ coding and machine learning for rovers",
     },
   ],
   "volunteer": [
